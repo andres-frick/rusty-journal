@@ -1,6 +1,6 @@
-use anyhow::anyhow;
 mod cli;
 mod tasks;
+use anyhow::anyhow;
 use structopt::StructOpt;
 
 
